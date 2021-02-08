@@ -95,8 +95,8 @@
 		DD65E5CA25D03D310069B6CC /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				DD65E5CB25D03D490069B6CC /* Persone.swift */,
 				DD65E5CF25D0402E0069B6CC /* Login.swift */,
+				DD65E5CB25D03D490069B6CC /* Persone.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
